@@ -28,7 +28,7 @@ function App() {
       traits={[{'value': 7}]} 
       image='https://nftlabs.mypinata.cloud/ipfs/bafybeigqkficum3anns36jid3dxvc4yfauyuvqjulbg43n23qxn3ce3tyu' 
       />
-      <Punklist punkListData={punkListData} />
+      {/* <Punklist punkListData={punkListData} /> */}
     </div>
   )
 
